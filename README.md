@@ -13,7 +13,6 @@
 
 <b>📊 Some GitHub stats </b>
 <p float="left"> <!-- GitHub README Stats -->
-    <br> <br>
    <img width="350" height="175"  alt="Sveva Pepe's github stats" hspace="20"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepes97&layout=compact&hide=HTML&langs_count=10&theme=algolia" />
     <img width="420" height="175" alt="Sveva Pepe's github stats" 
