@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<summary> <b>📊 Some GitHub stats </b></summary>
+<b>📊 Some GitHub stats </b>
 <p float="left"> <!-- GitHub README Stats -->
     <br> <br>
    <img width="350" height="175"  alt="Sveva Pepe's github stats" hspace="20"
