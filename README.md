@@ -14,9 +14,9 @@
 <summary> <b>📊 Some GitHub stats </b></summary>
 <p align="center"> <!-- GitHub README Stats -->
     <br> <br>
-   <img width="450" height="175" align="center" alt="Sveva Pepe's github stats" 
+   <img width="450" height="175" align="left" alt="Sveva Pepe's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepes97&layout=compact&hide=HTML&langs_count=10&theme=algolia" />
-    <img width="450" height="175" align="center" alt="Sveva Pepe's github stats" 
+    <img width="450" height="175" align="right" alt="Sveva Pepe's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=pepes97&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 </p>
 </details>
