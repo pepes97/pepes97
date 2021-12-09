@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sveva Pepe! </h2>
-<p><em>MSc. Student in Artificial Intelligence and Robotics at <a href="https://www.diag.uniroma1.it/">Sapienza University of Rome</a> &nbsp; <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"></br>
-</em></p>
+<!-- <p><em>MSc. Student in Artificial Intelligence and Robotics at <a href="https://www.diag.uniroma1.it/">Sapienza University of Rome</a> &nbsp; <img rc="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"></br>
+</em></p> -->
 
 [![Linkedin: Sveva Pepe](https://img.shields.io/badge/-svevapepe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/svevapepe/)](https://www.linkedin.com/in/sveva-pepe-ba9945123/)
 [![Instagram Badge](https://img.shields.io/badge/-svevapepe-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/svevapepe/)](https://www.instagram.com/sveva_pepe/)
